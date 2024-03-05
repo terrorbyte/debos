@@ -26,6 +26,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/go-debos/fakemachine v0.0.10 => github.com/terrorbyte/fakemachine v0.0.0-20240305204843-4b5629bb258a
-
-replace github.com/terrorbyte/fakemachine => github.com/terrorbyte/fakemachine v0.0.0-20240305211048-4ca2927e8e23
+replace github.com/go-debos/fakemachine v0.0.10 => github.com/terrorbyte/fakemachine v0.0.0-20240305211048-4ca2927e8e23
