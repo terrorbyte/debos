@@ -15,3 +15,5 @@ require (
 	gopkg.in/freddierice/go-losetup.v1 v1.0.0-20170407175016-fc9adea44124
 	gopkg.in/yaml.v2 v2.4.0
 )
+
+replace github.com/go-debos/fakemachine v0.0.10 => github.com/terrorbyte/fakemachine v0.0.0-20240305204843-4b5629bb258a
