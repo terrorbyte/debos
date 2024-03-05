@@ -22,8 +22,8 @@ github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcU
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 github.com/surma/gocpio v1.1.0 h1:RUWT+VqJ8GSodSv7Oh5xjIxy7r24CV1YvothHFfPxcQ=
 github.com/surma/gocpio v1.1.0/go.mod h1:zaLNaN+EDnfSnNdWPJJf9OZxWF817w5dt8JNzF9LCVI=
-github.com/terrorbyte/fakemachine v0.0.0-20240305212903-e658a9b07a09 h1:VsPi2SBcGlLOtOjTtOWnirmf8zLhyFJJ/N+ow48gX+c=
-github.com/terrorbyte/fakemachine v0.0.0-20240305212903-e658a9b07a09/go.mod h1:HEz/bvhlprN4DwW/YDfKU8PQKOm1sCxDxwz/79EOuzk=
+github.com/terrorbyte/fakemachine v0.0.0-20240305214324-a624ff750905 h1:RGQ0sfhZNZvynHUphk4G/GqNtibQS3b46tsBM9QnERI=
+github.com/terrorbyte/fakemachine v0.0.0-20240305214324-a624ff750905/go.mod h1:HEz/bvhlprN4DwW/YDfKU8PQKOm1sCxDxwz/79EOuzk=
 github.com/ulikunitz/xz v0.5.11 h1:kpFauv27b6ynzBNT/Xy+1k+fK4WswhN/6PN5WhFAGw8=
 github.com/ulikunitz/xz v0.5.11/go.mod h1:nbz6k7qbPmH4IRqmfOplQw/tblSgqTqBwxkY0oWt/14=
 golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
