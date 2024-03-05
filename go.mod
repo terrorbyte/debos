@@ -17,3 +17,5 @@ require (
 )
 
 replace github.com/go-debos/fakemachine v0.0.10 => github.com/terrorbyte/fakemachine v0.0.0-20240305204843-4b5629bb258a
+
+replace github.com/terrorbyte/fakemachine => github.com/terrorbyte/fakemachine v0.0.0-20240305205754-afad685fff11
